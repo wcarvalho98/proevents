@@ -1,0 +1,31 @@
+[
+  {
+    "idEvento": 0,
+    "preco": {
+      "meia": 40,
+      "social": 70,
+      "inteira": 80
+    },
+    "quantidade": 463,
+    "faixaEtaria": 14
+  },
+  {
+    "idEvento": 1,
+    "quantidade": 6,
+    "faixaEtaria": 16
+  },
+  {
+    "idEvento": 2,
+    "quantidade": 400
+  },
+  {
+    "idEvento": 3,
+    "preco": {
+      "meia": 60,
+      "social": 75,
+      "inteira": 90
+    },
+    "quantidade": 197,
+    "faixaEtaria": 18
+  }
+]

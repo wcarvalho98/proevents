@@ -1,0 +1,68 @@
+[
+  {
+    "id": 0,
+    "title": "Clássico: Sport x Náutico",
+    "date": {
+      "weekDay": "terça",
+      "day": "2",
+      "month": "maio",
+      "hours": "17:00"
+    },
+    "location": {
+      "title": "Estádio dos Aflitos",
+      "city": "Recife",
+      "state": "PE"
+    },
+    "priceStart": "40,00",
+    "promoter": "Promotora Eventos LTDA"
+  },
+  {
+    "id": 1,
+    "title": "Apresentação de projeto",
+    "date": {
+      "weekDay": "quarta",
+      "day": "22",
+      "month": "março",
+      "hours": "16:00"
+    },
+    "location": {
+      "title": "Online",
+      "city": "Recife",
+      "state": "PE"
+    },
+    "promoter": "MB Labs"
+  },
+  {
+    "id": 2,
+    "title": "Abertura do ano letivo",
+    "date": {
+      "weekDay": "segunda",
+      "day": "27",
+      "month": "março",
+      "hours": "12:00"
+    },
+    "location": {
+      "title": "UFRPE",
+      "city": "Recife",
+      "state": "PE"
+    },
+    "promoter": "Universidade Federal Rural de Pernambuco"
+  },
+  {
+    "id": 3,
+    "title": "Calourada de Sociologia",
+    "date": {
+      "weekDay": "sexta",
+      "day": "21",
+      "month": "abril",
+      "hours": "21:00"
+    },
+    "location": {
+      "title": "UFPE",
+      "city": "Recife",
+      "state": "PE"
+    },
+    "priceStart": "60,00",
+    "promoter": "Universidade Federal de Pernambuco"
+  }
+]
